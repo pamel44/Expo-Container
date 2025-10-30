@@ -8,7 +8,7 @@ return(
   <ScrollView style={{padding:20}}>
     <Titulo/>
     
-    <Saudacao/>
+    <Saudacao nome="Pamela" />
   </ScrollView>
 )
 }
