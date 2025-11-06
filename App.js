@@ -14,7 +14,7 @@ return<ScrollView>
     <CartaoUsuario 
     nome='joão da silva'
     descricao = 'programador mobile'
-    img='perfil00'
+    img='3.jpng'
     />
   </ScrollView>
 }
