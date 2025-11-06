@@ -6,7 +6,7 @@ export default estilos = StyleSheet.create({
         padding:16,
         marginTop:15,
         borderRadius:10,
-        alignItems:'center '
+        alignItems:'center ',
         shadowColor:'#000',
         shadowOpacity: 0.1,
         shadowOffset:{with:0, height:2},
