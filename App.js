@@ -14,7 +14,32 @@ return<ScrollView>
     <CartaoUsuario 
     nome='joão da silva'
     descricao = 'programador mobile'
-    img='3.jpng'
+    img=''
+    /> 
+
+
+    <CartaoUsuario 
+    nome='diego ribeiro'
+    descricao = 'programador mobile'
+    img=''
+    />
+
+    <CartaoUsuario 
+    nome='jessica moreira'
+    descricao = 'programador mobile'
+    img=''
+    />
+
+    <CartaoUsuario 
+    nome='juliana dos santos'
+    descricao = 'programador mobile'
+    img=''
+    />
+
+    <CartaoUsuario 
+    nome='mariana borges'
+    descricao = 'programador mobile'
+    img=''
     />
   </ScrollView>
 }
