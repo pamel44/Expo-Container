@@ -20,25 +20,25 @@ return<ScrollView>
 
     <CartaoUsuario 
     nome='diego ribeiro'
-    descricao = 'programador mobile'
+    descricao = 'advogado'
     img=''
     />
 
     <CartaoUsuario 
     nome='jessica moreira'
-    descricao = 'programador mobile'
+    descricao = 'pediatra'
     img=''
     />
 
     <CartaoUsuario 
     nome='juliana dos santos'
-    descricao = 'programador mobile'
+    descricao = 'pscologa'
     img=''
     />
 
     <CartaoUsuario 
     nome='mariana borges'
-    descricao = 'programador mobile'
+    descricao = 'dentista'
     img=''
     />
   </ScrollView>
