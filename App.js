@@ -12,34 +12,34 @@ return<ScrollView>
     <FotoPerfil/>
 
     <CartaoUsuario 
-    nome='joão da silva'
-    descricao = 'programador mobile'
-    img=''
+    nome='Jessica Moreira'
+    descricao = 'Pediatra'
+    img='perfil00'
     /> 
 
 
     <CartaoUsuario 
     nome='Diego Ribeiro'
     descricao = 'Advogado'
-    img=''
+    img='perfil01'
     />
 
     <CartaoUsuario 
-    nome='Jessica Moreira'
-    descricao = 'Pediatra'
-    img=''
+    nome='João da Silva'
+    descricao = 'Programador Mobile'
+    img='perfil02'
     />
 
     <CartaoUsuario 
     nome='Juliana dos Santos'
     descricao = 'Pscologa'
-    img=''
+    img='perfil03'
     />
 
     <CartaoUsuario 
     nome='Mariana Borges'
     descricao = 'Dentista'
-    img=''
+    img='perfil04'
     />
   </ScrollView>
 }
